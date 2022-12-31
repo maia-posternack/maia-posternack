@@ -4,4 +4,4 @@ Here you can find some of my past projects! I am currently working on RoundTable
 
 I am passionate about finding the intersections between computer science, math, and design, and would love to collaborate. 
 
-Reach out to me on [LinkedIn](https://www.linkedin.com/in/maia-posternack/) or maiaposternack@gmail.com.
+Reach out to me on [LinkedIn](https://www.linkedin.com/in/maia-posternack/) or email me at maiaposternack@gmail.com.
