@@ -6,7 +6,7 @@ I am passionate about finding the intersections between computer science, math, 
 
 Reach out to me on [LinkedIn](https://www.linkedin.com/in/maia-posternack/) or email me at maiaposternack@gmail.com.
 
-**Please read below for my software engineering personal artist's statement: **
+ <strong> Please read below for my software engineering personal artist's statement:</strong>
 
 Did you know that all the images you see from the James Webb telescope are completely made up? You may have seen a viral “photo” of the Pillars of Creation or Ring Nebula on your TikTok, Twitter, or LinkedIn feed and been struck by their otherworldly, almost science-fiction-like grandeur. Yet, what you are seeing is not actually “there.” These extraterrestrial phenomena are physics-based events that result in explosions of hydrogen, oxygen, and dozens of other elements. These elements are then arbitrarily assigned colors by Alyssa Pagan and Joe DePasquale. It is only because of their seemingly meaningless, scientifically random, yet, artistic coloring, that these images are understandable to human eyes, and not just black. It is because of their design choices, that we can see this invisible technology. 
 
